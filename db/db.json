@@ -1,1 +1,17 @@
-{}
+{
+  "contatos": [
+    {
+      "nome": "Teste",
+      "email": "",
+      "telefone": "00123456789",
+      "id": "XA3XqefIqeE"
+    },
+    {
+      "nome": "Fernando de Lima Goncalves",
+      "email": "",
+      "telefone": "31999812106",
+      "id": "Why0syFSdeQ"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}

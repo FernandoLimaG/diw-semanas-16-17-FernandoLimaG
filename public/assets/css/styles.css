@@ -36,3 +36,19 @@ body {
     background-color: darkblue;
     color: white;
 }
+
+.btn-custom-red{
+    background-color: darkred;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+}
+
+.btn-custom-red:hover,
+.btn-custom-red:focus,
+.btn-custom-red:active {
+    background-color: darkred;
+    color: white;
+}

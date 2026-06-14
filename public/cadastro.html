@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="pt-BR"></html>
+<html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -16,7 +16,7 @@
             <hr>
         </div>
 
-        <form>
+        <form id="contact-form">
             <div class="mb-3">
                 <label for="name" class="form-label">Nome</label>
                 <input type="text" class="form-control" id="nome" placeholder="Digite o nome do contato" method="post" required>
@@ -32,9 +32,10 @@
             </div>
 
             <!-- Botoes de Acao e edicao -->
-            <a href="salvar" class="btn btn-custom-green">Salvar</a>
-            <a href="editar" class="btn btn-custom-blue">Editar</a> 
-            <a href="excluir" class="btn btn-custom-red">Excluir</a>
+            <a href="salvar">
+                <button type="submit" class="btn btn-custom-green">Salvar</button>
+            </a>
+           
             <hr>
             <br>
         </form>
