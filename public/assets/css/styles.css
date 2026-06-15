@@ -52,3 +52,11 @@ body {
     background-color: darkred;
     color: white;
 }
+
+.img-topo {
+    width: 200px;
+    max-width: 600px;
+    height: auto;
+    display: block;
+    margin: 0 auto 20px auto;
+}
