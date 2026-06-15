@@ -8,3 +8,19 @@
 
 ## Objetivo
 Cadastrar e alterar dados de uma entidade principal CRUD utilizando-se JSON server (backend)
+
+## Testes da API
+Foram realizados testes utilizando Thunder Client para os métodos GET, POST, PUT e DELETE.
+Seus resultados estão evidenciados abaixo
+
+### GET
+![GET](/public/docs/testeGET.png)
+
+### POST
+![POST](/public/docs/testePOST.png)
+
+### PUT
+![PUT](/public/docs/testePUT.png)
+
+### DELETE
+![DELETE](/public/docs/testeDELETE.png)
