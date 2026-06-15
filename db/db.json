@@ -6,6 +6,5 @@
       "telefone": "31999812106",
       "id": "buJB1qDOIJA"
     }
-  ],
-  "$schema": "./node_modules/json-server/schema.json"
+  ]
 }
